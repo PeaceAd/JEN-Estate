@@ -14,4 +14,3 @@
 
 ## Modern UI: Clean, elegant design with smooth animations ##
 
-the future of property
